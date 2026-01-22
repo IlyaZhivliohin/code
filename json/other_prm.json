@@ -1,0 +1,11 @@
+{
+  "power" : 5e3,
+  "K_dB" : 40,
+  "band" : [1e6],
+  "mod_type" : [3],
+  "az_pat" : 2,
+  "init_phase" : 0,
+  "lat" : 59.47961,
+  "lon" : 29.29916,
+  "alt" : 100
+}
